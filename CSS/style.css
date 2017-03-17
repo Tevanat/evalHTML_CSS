@@ -1,0 +1,60 @@
+
+}
+body{
+  background-color: white;
+}
+
+.central{
+  text-align: center;
+  /*display: block;
+  margin-left: 600px;
+  margin-right: 400px;*/
+}
+h1{
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  width: 370px;
+margin: auto;
+
+}
+nav li{
+  display: inline;
+  margin-right: 10px;
+}
+
+header > article{
+  display: inline-block;;
+  vertical-align: middle;
+  text-align: center;
+}
+h3{
+  width: 200px;
+  margin: auto;
+}
+#tailleimg{
+  width: 650px;
+}
+.align{
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 185px;
+  margin-left: 20px;
+}
+
+.blok{
+display: inline-block;
+vertical-align: middle;
+text-align: left;;
+}
+.R{
+  width: 50%;
+}
+.L{
+  width: 50%;
+}
+div > img{
+  width: 100%;
+}
+section > article{
+margin: auto;
+}
